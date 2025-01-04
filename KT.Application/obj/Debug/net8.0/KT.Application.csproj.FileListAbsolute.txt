@@ -1,0 +1,15 @@
+F:\Koperasi\KT\KT.Application\obj\Debug\net8.0\KT.Application.csproj.AssemblyReference.cache
+F:\Koperasi\KT\KT.Application\obj\Debug\net8.0\KT.Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\Koperasi\KT\KT.Application\obj\Debug\net8.0\KT.Application.AssemblyInfoInputs.cache
+F:\Koperasi\KT\KT.Application\obj\Debug\net8.0\KT.Application.AssemblyInfo.cs
+F:\Koperasi\KT\KT.Application\obj\Debug\net8.0\KT.Application.csproj.CoreCompileInputs.cache
+F:\Koperasi\KT\KT.Application\bin\Debug\net8.0\KT.Application.deps.json
+F:\Koperasi\KT\KT.Application\bin\Debug\net8.0\KT.Application.dll
+F:\Koperasi\KT\KT.Application\bin\Debug\net8.0\KT.Application.pdb
+F:\Koperasi\KT\KT.Application\bin\Debug\net8.0\KT.Domain.dll
+F:\Koperasi\KT\KT.Application\bin\Debug\net8.0\KT.Domain.pdb
+F:\Koperasi\KT\KT.Application\obj\Debug\net8.0\KT.Appli.162B9A3A.Up2Date
+F:\Koperasi\KT\KT.Application\obj\Debug\net8.0\KT.Application.dll
+F:\Koperasi\KT\KT.Application\obj\Debug\net8.0\refint\KT.Application.dll
+F:\Koperasi\KT\KT.Application\obj\Debug\net8.0\KT.Application.pdb
+F:\Koperasi\KT\KT.Application\obj\Debug\net8.0\ref\KT.Application.dll
